@@ -1,4 +1,5 @@
-### Hi there , I'm ezomo👋
+### Hi there , I'm ezomo
+
 
 ## 🌱 My skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,rust,vscode,unreal,ros,flask,atom,vim)](https://skillicons.dev)

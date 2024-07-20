@@ -2,7 +2,7 @@
 
 
 ## 🌱 My skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,rust,vscode,unreal,ros,flask,atom,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,ros,ubuntu,python,flask,js,html,css)](https://skillicons.dev)
 
 ## 📈 Status
 <p align="left"> 
